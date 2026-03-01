@@ -1,7 +1,7 @@
 {
   "name": "useless-website",
   "private": false,
-  "homepage": "https://github.com/PedroOpossum/Cheese_Website",
+  "homepage": "https://PedroOpossum.github.io/Cheese_Website",
   "version": "0.0.0",
   "type": "module",
   "scripts": {

@@ -10,7 +10,7 @@
     },
     {
       name: "Cheddar",
-      image: "https://www.clipartmax.com/png/middle/49-498661_best-of-cheese-clipart-cheese-cheddar-stack-transparent-cheese-png.png"
+      image: "https://pngimg.com/d/cheese_PNG25295.png"
     },
     {
       name: "Parmesan",
